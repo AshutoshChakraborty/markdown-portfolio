@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Android](http://pngimg.com/uploads/android_logo/android_logo_PNG27.png)
